@@ -197,7 +197,10 @@ a {
 
 .main-menu ul li {
     display: inline-block;
+    padding: 0 10px;
 }
+
+.main-menu>ul>li:hover {}
 
 .about-html {
     display: block;
