@@ -1,10 +1,11 @@
+// 서브메뉴 제어를 위한 스크립트
 $(function() {
-    $(".main-menu > li ").hover(
+    $(".main-menu > li").hover(
         function() {
-            $(this).children("ul").css("display", "block");
+            $(this).find("ul").css("display", "block");
         },
         function() {
-            $(this).children("ul").css("display", "none");
+            $(this).find("ul").css("display", "none");
         }
     );
     $(".main-menu span").focusin(
