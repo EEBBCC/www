@@ -70,4 +70,11 @@ ex) single rounding
 md 마크다운 이미지 실습
 
 ![alt text](https://avatars0.githubusercontent.com/u/29723157?v=3&s=88 "Logo title text 1")
-<img src="https://avatars0.githubusercontent.com/u/29723157?v=3&s=88" width="20px" height="20px" align="right">
+<img src="https://avatars0.githubusercontent.com/u/29723157?v=3&s=88" width="50%" height="50%" align="right" border="10px solid black">
+
+------------------------------------------------
+
+<margin값은 겹침
+
+**float기법**
+float 를 활용
