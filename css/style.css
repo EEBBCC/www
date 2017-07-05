@@ -588,6 +588,19 @@ a {
     float: right;
 }
 
+
+/* 자료검색 2 trial*/
+
+.search {
+    background: linear-gradient(to bottom, #ccc, #fff);
+    ;
+    border: 1px solid #aaa;
+    border-radius: 15px;
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
 .slogan {
     height: 10vh;
 }
