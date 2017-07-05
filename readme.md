@@ -37,4 +37,37 @@
 3. 동작 - javascript -j 
 
 
-float 쳌,
+float 체크
+
+마크업 
+Class
+ .term
+ .term-heading
+ .term-list
+ .term-list-thumbnail
+ .term-list-brief
+
+ <div>
+ <html>
+<ul>
+<ol>
+<dl> * 정의형 리스트 -용어와 그에대한 설명
+ex) single rounding
+
+    h2 .term-heading
+
+        dl .term-list
+            dt -definition term     .term-list-subject
+                dd (definition discription)
+                    img. .term-list-thumbnail
+                dd .term-list-brief
+
+-----------------------
+<intput>input tag -입력상자
+<label> label tag -제목
+
+---------------------------------------
+md 마크다운 이미지 실습
+
+![alt text](https://avatars0.githubusercontent.com/u/29723157?v=3&s=88 "Logo title text 1")
+<img src="https://avatars0.githubusercontent.com/u/29723157?v=3&s=88" width="20px" height="20px" align="right">
